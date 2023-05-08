@@ -1,2 +1,5 @@
-var msg = 'Hola mundo';
-console.log("aloha");
+"use strict";
+(() => {
+    const msg = 'Hola mundo';
+    console.log("alohsa");
+})();

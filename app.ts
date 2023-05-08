@@ -1,2 +1,6 @@
-const msg: string ='Hola mundo';
-console.log("aloha");
+(()=>{
+    const msg: string ='Hola mundo';
+console.log("alohsa");
+})();
+
+
